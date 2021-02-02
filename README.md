@@ -11,7 +11,7 @@ Este repositório contém:
 - Testes
 - Exercícios
 
-## Grades
+## Classificações
 
 Final = (Teste 1 + Teste 2) / 2
 
